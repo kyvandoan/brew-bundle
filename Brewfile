@@ -1,9 +1,11 @@
 tap "oven-sh/bun"
 tap "ddev/ddev"
 tap "buo/cask-upgrade"
+tap "tw93/tap"
 brew "mas"
-brew 'oven-sh/bun/bun'
-brew 'ddev/ddev/ddev'
+brew 'bun'
+brew 'ddev'
+brew 'mole'
 brew 'composer'
 brew 'gemini-cli'
 brew 'mas'
@@ -27,7 +29,6 @@ cask 'netnewswire'
 cask 'monitorcontrol'
 cask 'onyx'
 cask 'orbstack'
-cask 'pearcleaner'
 cask 'phpstorm'
 cask 'poedit'
 cask 'protonvpn'
