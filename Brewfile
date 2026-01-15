@@ -57,3 +57,21 @@ mas "uBlock Origin Lite", id: 6745342698
 # vscode "google.geminicodeassist"
 # vscode "johnbillion.vscode-wordpress-hooks"
 # vscode "mblode.twig-language"
+cask 'font-fira-code'
+cask 'font-fira-sans'
+cask 'font-google-sans'
+cask 'font-google-sans-code'
+cask 'font-jetbrains-mono'
+cask 'font-lato'
+cask 'font-lora'
+cask 'font-merriweather'
+cask 'font-montserrat'
+cask 'font-noto'
+cask 'font-nunito'
+cask 'font-open-sans'
+cask 'font-oswald'
+cask 'font-playfair-display'
+cask 'font-raleway'
+cask 'font-roboto'
+cask 'font-pacifico'
+cask 'font-ubuntu'
